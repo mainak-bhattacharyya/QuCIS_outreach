@@ -1,3 +1,5 @@
 PennyLane==0.36.0
 cirq==1.4.0
 PennyLane-Cirq==0.36.0
+matplotlib==3.9.0
+numpy==1.26.4
