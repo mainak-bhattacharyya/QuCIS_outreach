@@ -2,7 +2,9 @@
 This repository contains the outreach events organised by QuCIS group.
 
 Current content:
+
 -> NPTEL workshop "Hands on programming on Quantum computers" [17 Jul - 22 Jul 2024]
+
 Authors:
 
 1. [Mainak Bhattacharyya](https://github.com/mainak-bhattacharyya)
