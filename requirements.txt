@@ -3,3 +3,5 @@ cirq==1.4.0
 PennyLane-Cirq==0.36.0
 matplotlib==3.9.0
 numpy==1.26.4
+amazon-braket-pennylane-plugin==1.27.6
+StrawberryFields==0.23.0
