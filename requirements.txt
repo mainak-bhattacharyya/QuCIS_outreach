@@ -5,3 +5,5 @@ matplotlib==3.9.0
 numpy==1.26.4
 amazon-braket-pennylane-plugin==1.27.6
 StrawberryFields==0.23.0
+jax==0.4.30
+optax==0.2.2
